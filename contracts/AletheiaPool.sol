@@ -1,4 +1,5 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Imago Labs / Metamorphic Curations LLC
 pragma solidity 0.8.20;
 
 /**

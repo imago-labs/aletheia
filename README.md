@@ -84,11 +84,14 @@ Originally built at the EasyA x CoinDesk Consensus Hackathon Miami 2026 by [Crys
 
 ---
 
-## License
+## License and governance
 
 Apache License 2.0. See [`LICENSE`](./LICENSE) for the full text.
 
-"Aletheia Protocol" and "Aletheia" are trademarks of Imago Labs / Metamorphic Curations LLC.
+- [`LICENSING.md`](./LICENSING.md): what is open, what is closed, and how the two relate.
+- [`TRADEMARK.md`](./TRADEMARK.md): what you can and cannot do with the Aletheia name and marks, including on-chain naming.
+- [`CONTRIBUTOR_LICENSE_AGREEMENT.md`](./CONTRIBUTOR_LICENSE_AGREEMENT.md): terms for code, spec, and audit contributions.
+- [`SECURITY.md`](./SECURITY.md): how to report a vulnerability privately.
 
 ---
 

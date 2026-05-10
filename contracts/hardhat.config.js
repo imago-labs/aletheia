@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Imago Labs / Metamorphic Curations LLC
+// Licensed under the Apache License, Version 2.0. See LICENSE in the
+// repository root or http://www.apache.org/licenses/LICENSE-2.0
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config();
 
