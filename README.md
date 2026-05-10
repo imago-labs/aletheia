@@ -100,7 +100,7 @@ economics, reserve ratios, claim flow, and the verifier interface.
 Aletheia is operated by **[Imago Labs](https://github.com/imago-labs)**.
 
 Originally built at the EasyA × CoinDesk Consensus Hackathon Miami 2026 by
-[Crystal Molnar](https://github.com/Msmetamorphosis), with **Esteban Cerda
+[Crystal Tubbs](https://github.com/Msmetamorphosis), with **Esteban Cerda
 Le-Bert** refining the initial financial model and pool economics (V1).
 Now operated as the flagship product of the Chrysalis platform.
 
