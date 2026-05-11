@@ -36,10 +36,10 @@ In scope:
 
 Out of scope:
 
-- Closed-source components in `aletheia-platform` (calculator, backend, frontend, demo). Report those privately to hello@imagolabs.dev with subject `SECURITY (PLATFORM): <description>`.
+- Closed-source components in `aletheia-platform` (calculator, backend, frontend, demo). Report those privately to info@metamorphiccurations.com with subject `SECURITY (PLATFORM): <description>`.
 - Vulnerabilities in third-party dependencies (OpenZeppelin, Solidity compiler, etc.). Please report upstream and notify us so we can pin or patch.
 - Generic blockchain risks not specific to Aletheia (chain reorgs, MEV against unrelated transactions, RPC provider outages).
-- Phishing sites, social engineering, or scams that impersonate Aletheia. Report those at hello@imagolabs.dev so we can list them publicly.
+- Phishing sites, social engineering, or scams that impersonate Aletheia. Report those at info@metamorphiccurations.com so we can list them publicly.
 
 ## Severity guidance
 
