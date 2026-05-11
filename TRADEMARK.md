@@ -34,10 +34,10 @@ This is especially important for on-chain protocols, where users depend on namin
 
 ## Reporting confusing or infringing use
 
-If you see a deployment, frontend, token, or service that appears to be impersonating Aletheia or Imago Labs, or is using these marks in a way that creates confusion about origin or counterparty, please email hello@imagolabs.dev with a link, contract address (if applicable), and a short description.
+If you see a deployment, frontend, token, or service that appears to be impersonating Aletheia or Imago Labs, or is using these marks in a way that creates confusion about origin or counterparty, please email info@metamorphiccurations.com with a link, contract address (if applicable), and a short description.
 
 ## Permission requests
 
-For commercial use, integration co-marketing, conference sponsorship, merchandise, or any use not explicitly allowed above, request written permission at hello@imagolabs.dev.
+For commercial use, integration co-marketing, conference sponsorship, merchandise, or any use not explicitly allowed above, request written permission at info@metamorphiccurations.com.
 
 This policy may be updated. The current version always lives at the root of this repository.
