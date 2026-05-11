@@ -6,7 +6,7 @@ Aletheia is an on-chain accountability protocol. Vulnerabilities can result in d
 
 **Do not open a public GitHub issue or post in any public channel.**
 
-**Email:** hello@imagolabs.dev
+**Email:** info@metamorphiccurations.com
 
 Use the subject line `SECURITY: <short description>`. PGP key on request.
 
