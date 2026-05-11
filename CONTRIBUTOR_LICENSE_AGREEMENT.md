@@ -28,7 +28,7 @@ You represent that:
 1. Each Contribution is your original creation, or you have the right to submit it under the terms of this CLA.
 2. Your Contribution does not, to your knowledge, violate any third-party rights, including copyright, trademark, patent, or other intellectual property rights.
 3. If your employer has rights to intellectual property you create, you have either received permission to make the Contribution on behalf of your employer, or your employer has waived such rights, or your employer has signed a separate corporate contributor agreement with Imago Labs.
-4. You will notify Imago Labs at hello@imagolabs.dev if any of these representations becomes inaccurate.
+4. You will notify Imago Labs at info@metamorphiccurations.com if any of these representations becomes inaccurate.
 
 ## 5. Security disclosures
 
@@ -54,4 +54,4 @@ You indicate agreement to this CLA by including the following line in the descri
 
 For pull requests with multiple authors, each author must indicate agreement.
 
-For organizations contributing on behalf of multiple employees, please contact hello@imagolabs.dev to arrange a Corporate CLA.
+For organizations contributing on behalf of multiple employees, please contact info@metamorphiccurations.com to arrange a Corporate CLA.
